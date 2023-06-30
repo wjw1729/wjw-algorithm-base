@@ -1,0 +1,31 @@
+import math
+
+
+def get_mod(a, b, c):
+    res = 1
+    temp = a
+    while b > 0:
+        if b & 1:
+            res = (res * temp) % c
+        temp = (temp * temp) % c
+        b >>= 1
+
+    return res
+
+
+class Solution:
+    def countGoodNumbers(self, n: int) -> int:
+
+        odd = n // 2
+        even = (n + 1) // 2
+
+        mod1=get_mod(5,even,10**9+7)
+        mod2=get_mod(4,odd,10**9+7)
+
+        return (mod1*mod2)%(10**9+7)
+
+
+
+n = 50
+res = Solution().countGoodNumbers(n)
+print(res)

@@ -1,0 +1,2 @@
+SortedList表示有序列表
+bisect.bisect_left返回x的插入下标（二分插入）

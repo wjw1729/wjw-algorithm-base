@@ -1,3 +1,11 @@
+# Abstract
+
+这个仓库是一个记录本人以前竞赛过程中的一些学习的历程，从2021年开始。其中部分内容来自于0x3f.  
+其中一些code来自于笔者比赛的代码的LOG。  
+我的leetcode账号：[https://leetcode.cn/u/eudemonia-4/](https://leetcode.cn/u/eudemonia-4/)
+
+我的codeforces账号: [to be added]
+
 # codeforces-go
 
 ## 算法 Algorithm
@@ -5,12 +13,12 @@
 由于算法知识点繁杂，将自己学习到的算法、做过的题目分类整理好是有必要的。
 
 一个算法模板应当涵盖以下几点：
+
 - 对该算法的基本介绍（核心思想、复杂度等）
 - 参考链接或书籍章节（讲的比较好的资料）
 - 模板代码（可以包含一些注释、使用说明）
 - 模板补充内容（常见题型中的额外代码、建模技巧等）
 - 相关题目链接（模板题、经典题、思维转换题等）
-
 
 ## 算法目录
 
@@ -48,10 +56,10 @@
     - [平衡树版 odt_bst.py](/copypasta/odt_bst.go)
   - [根号算法（分块）sqrt_decomposition.py](/copypasta/sqrt_decomposition.go)
   - [莫队算法 mo.py](/copypasta/mo.go)
-     - 普通莫队
-     - 带修莫队
-     - 回滚莫队
-     - 树上莫队
+    - 普通莫队
+    - 带修莫队
+    - 回滚莫队
+    - 树上莫队
 - [字符串 strings.py](/copypasta/strings.go)
   - 字符串哈希
   - KMP
@@ -258,7 +266,10 @@
 - [快读模板 io.py](/copypasta/io.go)
 
 
+
 ## 如何选择题目 How to Choose Problems
+
+
 
 ### Rating < 2100
 
@@ -273,11 +284,6 @@
 ### Rating >= 2100
 
 这一阶段要想上分，应以 DP 为主，图论和数据结构为辅。难度范围选择同上，可以根据自己在该项的能力上下调整。
-
-我的 Codeforces 账号：
-
-[![0x3F](https://img.shields.io/badge/0x3F-MASTER%202189-orange?style=for-the-badge)](https://codeforces.com/profile/0x3F)
-
 
 ## 测试及对拍 Testing
 
@@ -369,15 +375,15 @@
 
 [[杂谈]OI/ACM中冷门算法](https://zhuanlan.zhihu.com/p/21924647)
 
-https://blog.csdn.net/calabash_boy/article/details/79973483
+[https://blog.csdn.net/calabash_boy/article/details/79973483](https://blog.csdn.net/calabash_boy/article/details/79973483)
 
-https://github.com/zimpha/algorithmic-library
+[https://github.com/zimpha/algorithmic-library](https://github.com/zimpha/algorithmic-library)
 
-https://www.luogu.com.cn/blog/command-block/blog-suo-yin-zhi-ding-post
+[https://www.luogu.com.cn/blog/command-block/blog-suo-yin-zhi-ding-post](https://www.luogu.com.cn/blog/command-block/blog-suo-yin-zhi-ding-post)
 
-https://wcysai.github.io/
+[https://wcysai.github.io/](https://wcysai.github.io/)
 
-https://www.luogu.com.cn/blog/Troverld/index
+[https://www.luogu.com.cn/blog/Troverld/index](https://www.luogu.com.cn/blog/Troverld/index)
 
 ## 其他 Others
 
